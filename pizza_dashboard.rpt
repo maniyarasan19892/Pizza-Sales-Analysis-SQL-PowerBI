@@ -1,0 +1,92 @@
+﻿total_revenue
+----------------------
+817860.05083847
+
+(1 row affected)
+
+avg_order_value
+----------------------
+38.3072623343546
+
+(1 row affected)
+
+total_pizza_sold
+----------------
+49574
+
+(1 row affected)
+
+total_orders
+------------
+21350
+
+(1 row affected)
+
+avg_pizza_per_order
+---------------------------------------
+2.3219672131147
+
+(1 row affected)
+
+date_name                      total_order
+------------------------------ -----------
+Saturday                       3158
+Wednesday                      3024
+Monday                         2794
+Sunday                         2624
+Friday                         3538
+Thursday                       3239
+Tuesday                        2973
+
+(7 rows affected)
+
+pizza_category                                     total_amount           PCT
+-------------------------------------------------- ---------------------- ----------------------
+Chicken                                            195919.5               23.9551375322885
+Supreme                                            208196.99981308        25.4563112111462
+Classic                                            220053.100021362       26.9059602306976
+Veggie                                             193690.451004028       23.6825910258677
+
+(4 rows affected)
+
+pizza_category                                     total_amount           PCT
+-------------------------------------------------- ---------------------- ----------------------
+Chicken                                            15468.25               1.89130768572715
+Supreme                                            16718.8499832153       2.04421893037509
+Classic                                            17336.1000022888       2.11969028008103
+Veggie                                             15636.4000892639       1.91186744886652
+
+(4 rows affected)
+
+pizza_size                                         total_amount           PCT
+-------------------------------------------------- ---------------------- ---------------------------------------
+S                                                  178076.49981308        21.77
+L                                                  375318.701004028       45.89
+XL                                                 14076                  1.72
+XXL                                                1006.6000213623        0.12
+M                                                  249382.25              30.49
+
+(5 rows affected)
+
+pizza_name                                         total_revenue
+-------------------------------------------------- ---------------------------------------
+The Thai Chicken Pizza                             43434.25
+The Barbecue Chicken Pizza                         42768.00
+The California Chicken Pizza                       41409.50
+The Classic Deluxe Pizza                           38180.50
+The Spicy Italian Pizza                            34831.25
+
+(5 rows affected)
+
+pizza_name                                         total_revenue
+-------------------------------------------------- ---------------------------------------
+The Brie Carre Pizza                               11588.50
+The Green Garden Pizza                             13955.75
+The Spinach Supreme Pizza                          15277.75
+The Mediterranean Pizza                            15360.50
+The Spinach Pesto Pizza                            15596.00
+
+(5 rows affected)
+
+
+Completion time: 2026-02-11T22:32:09.9783549+05:30
